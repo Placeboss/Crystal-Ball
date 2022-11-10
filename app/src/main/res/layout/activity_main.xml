@@ -10,8 +10,8 @@
 
     <TextView
         android:id="@+id/tvPrediction"
-        android:layout_width="410dp"
-        android:layout_height="282dp"
+        android:layout_width="300dp"
+        android:layout_height="280dp"
         android:fontFamily="sans-serif-thin"
         android:text="Your prediction"
         android:textAlignment="center"
@@ -20,10 +20,10 @@
         app:autoSizeTextType="uniform"
         app:layout_constraintBottom_toTopOf="@+id/ibPrediction"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.516"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.417" />
+        app:layout_constraintVertical_bias="0.426" />
 
     <ImageButton
         android:id="@+id/ibPrediction"
