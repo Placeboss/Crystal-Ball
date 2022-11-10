@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="predictions">
+        <item>Wait for the money</item>
+        <item>Be careful</item>
+        <item>Gonna be alright</item>
+        <item>Lose your money</item>
+        <item>Wait for love</item>
+        <item>New friend</item>
+    </string-array>
+</resources>
