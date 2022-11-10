@@ -11,6 +11,7 @@
 </div>
 
 <div class="box1">
+  <p align="center">  
   <img src="https://user-images.githubusercontent.com/117910179/201118016-a8702760-28fc-4720-8267-d9c902f6a30c.PNG">
 </div>
 
