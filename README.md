@@ -4,13 +4,8 @@
 <div class="box">
    <img src="https://user-images.githubusercontent.com/117910179/201110324-8f8c012e-b8f4-409e-a30f-3d9ae1047efd.PNG" width="350" height="650">
     <div>Interface</div>
-  </div>
- <style>
-.box {
-    text-align: center;
-}
-</style>
+</div>
 
 
-> Just an entertaining app that allows you to predict your feauture   
+Just an entertaining app that allows you to predict your feauture   
 
